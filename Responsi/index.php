@@ -30,6 +30,8 @@
     </style>
 </head>
 <body>
+    <p>Tujuan saya bukan untuk membebani kalian. jika kalian merasa tugas ini membebani kalian, saya minta maaf sebesar-besarnya :).
+    di waktu yang akan datang, pasti kalian merasakan hikmahnya dari semua ini. Nikmati saja prosesnya :)</p>
     <h3>SOTO SUEGER POLL</h3>
     <table border="1" align="center" width="500">
         <tr>
